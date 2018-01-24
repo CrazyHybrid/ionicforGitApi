@@ -29,3 +29,4 @@ export class GithubUsers {
       .map(res => <User[]>(res.json().items))
   }
 }
+
