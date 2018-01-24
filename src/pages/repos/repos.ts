@@ -12,5 +12,5 @@ export class ReposPage {
   ionViewDidLoad() {
     console.log('Hello Repos Page');
   }
-
 }
+
